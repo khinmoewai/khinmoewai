@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khinmoewai
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning SQL and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on tech company
 - 📫 How to reach me 415-696-6968
 
 <!---
