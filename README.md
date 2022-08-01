@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khinmoewai
 - 👀 I’m interested in Data Science 
 - 🌱 I’m currently learning SQL, PowerBI and Python
-- 💞️ I’m looking to collaborate on tech company
+- 💞️ I’m looking for a job in Data Analyst
 - 📫 How to reach me 415-696-6968
 
 <!---
